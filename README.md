@@ -15,7 +15,7 @@ Welcome to the AI Suggestion Calculator! This is a simple and interactive calcul
 - **Frontend**: React, Next.js
 - **Styling**: Tailwind CSS
 
-![image alt]()
+![image alt](https://github.com/Haseeb982/AI-Calculator/blob/main/calculatorimage.PNG?raw=true)
 
 ## Getting Started
 
